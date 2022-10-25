@@ -4,7 +4,7 @@
               addUsingNamespaceToJuceHeader="0" displaySplashScreen="1" jucerFormatVersion="1"
               companyName="Sodatune" companyWebsite="sodatune.com" companyEmail="yukinsnow@gmail.com"
               bundleIdentifier="com.sodatune.fans" headerPath="/opt/homebrew/opt/curl/include/&#10;/opt/homebrew/opt/nlohmann-json/include/&#10;.\ext_libs\curl_x64-windows\include&#10;.\ext_libs\nlohmann-json_x64-windows\include&#10;"
-              splashScreenColour="Light">
+              splashScreenColour="Light" pluginFormats="buildAU,buildAUv3,buildVST3">
   <MAINGROUP id="SK9rRU" name="Fans">
     <GROUP id="{89CD371F-15E5-1AC5-9B64-516BA6068D5F}" name="Source">
       <FILE id="GK0C5J" name="PluginProcessor.cpp" compile="1" resource="0"

@@ -4,6 +4,9 @@
     @yukinsnow
     Sodatune.com
 
+    Windows version fixed by @ltyxh
+    Tianyi.vc
+
   ==============================================================================
 */
 
